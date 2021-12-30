@@ -1,9 +1,9 @@
 # home-sso-service
 This is Single-Sign On service
-# Dependencies
+## Dependencies
 - go version go1.15.6 linux/amd64
 
-# Build
+## Build
 
 To build the project, use:
 
@@ -11,7 +11,7 @@ To build the project, use:
 # Use 
 go get .
 ```
-# Run
+## Run
 
 To run the project, use:
 
@@ -19,7 +19,7 @@ To run the project, use:
 # Use 
 go run main.go
 ```
-# API
+## API
 
 Request OAuth2 JWT token
 
